@@ -4,8 +4,6 @@ Tools
 
 HTML
 
-JavaScript
-
 jQuery 
 
 Thanks!
